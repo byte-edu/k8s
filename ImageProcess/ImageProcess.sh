@@ -19,6 +19,7 @@ NodeImageList="
 k8s.gcr.io/kube-proxy:v1.16.2
 k8s.gcr.io/pause:3.1
 quay.io/coreos/flannel:v0.11.0-amd64
+quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.26.1
 "
 
 # 定义 dockerhub 上个人镜像仓库
